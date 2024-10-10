@@ -8,10 +8,7 @@ import { Component } from '@angular/core';
 export class LaptoplistComponent {
   laptopList: string[] = [
     'Acer',
-    'ASUS',
-    'Dell',
-    'HP',
-    'Lenovo'
+
   ];
   laptopName: string = '';
 

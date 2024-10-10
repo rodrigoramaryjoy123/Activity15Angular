@@ -7,10 +7,7 @@
   })
   export class SportslistComponent {
     sportList: string[] = [
-      'Basketball',
-      'Soccer',
-      'Tennis',
-      'Basebell',
+      'Volleyball',
       'Swimming'
     ];
     sportName: string = '';

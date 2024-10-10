@@ -8,9 +8,6 @@ import { Component } from '@angular/core';
 export class DevelopertoolslistComponent {
   developerToolList: string[] = [
     'Visual Studio Code',
-    'Git',
-    'Postman',
-    'Docker',
     'Sublime Text'
   ];
   developerToolName: string = '';

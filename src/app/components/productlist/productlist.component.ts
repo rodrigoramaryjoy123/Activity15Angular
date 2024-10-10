@@ -8,10 +8,6 @@ import { Component } from '@angular/core';
 export class ProductlistComponent {
   productList: string[] = [
     'Laptop',
-    'Smartphone',
-    'Headphones',
-    'Smartwatch',
-    'Tablet'
   ];
   productName: string = '';
 

@@ -7,11 +7,7 @@ import { Component } from '@angular/core';
 })
 export class LibrarylistComponent {
   libraryList: string[] = [
-    'National Library of the Philippines',
-    'Ateneo de Manila University Library',
-    'University of the Philippines Main Library',
-    'De La Salle University Library',
-    'San Beda University Library'
+    'SVFC Libary',
   ];
   libraryName: string = '';
 

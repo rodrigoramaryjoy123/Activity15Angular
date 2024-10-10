@@ -9,9 +9,6 @@ export class FoodmenuComponent {
   foodList: string[] = [
     'Adobo',
     'Sinigang',
-    'Lechon',
-    'Pancit',
-    'Lumpiang Shanghai'
   ];
   foodName: string = '';
 

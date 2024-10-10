@@ -8,10 +8,8 @@ import { Component } from '@angular/core';
 export class CountrylistComponent {
   countryList: string[] = [
     'Philippines',
-    'United States',
     'Japan',
-    'South Korea',
-    'Canada'
+  
   ];
   countryName: string = '';
 

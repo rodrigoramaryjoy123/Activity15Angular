@@ -7,11 +7,8 @@ import { Component } from '@angular/core';
 })
 export class CarmodellistComponent {
   carModelList: string[] = [
-    'Toyota Vios',
-    'Mitsubishi Montero Sport',
-    'Honda CR-V',
-    'Nissan Navara',
-    'Ford Ranger'
+    'Toyota',
+    
   ];
   carModelName: string = '';
 

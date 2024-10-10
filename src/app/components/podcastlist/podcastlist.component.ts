@@ -8,10 +8,6 @@ import { Component } from '@angular/core';
 export class PodcastlistComponent {
   podcastList: string[] = [
     'The Daily',
-    'Stuff You Should Know',
-    'Crime Junkie',
-    'How I Built This',
-    'The Joe Rogan Experience'
   ];
   podcastName: string = '';
 

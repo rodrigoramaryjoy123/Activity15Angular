@@ -8,10 +8,9 @@ import { Component } from '@angular/core';
 export class EventlistComponent {
   eventList: string[] = [
     'Sinulog Festival',
-    'Ati-Atihan Festival',
+    'Kadayawan Festival',
     'Pahiyas Festival',
-    'Panagbenga Festival',
-    'Kadayawan Festival'
+
   ];
   eventName: string = '';
 

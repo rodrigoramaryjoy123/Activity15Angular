@@ -9,9 +9,6 @@ export class GrocerylistComponent {
   groceryList: string[] = [
     'Rice',
     'Chicken',
-    'Eggs',
-    'Vegetables',
-    'Canned Goods'
   ];
   groceryName: string = '';
 

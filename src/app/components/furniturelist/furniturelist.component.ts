@@ -9,9 +9,6 @@ export class FurniturelistComponent {
   furnitureList: string[] = [
     'Sofa',
     'Dining Table',
-    'Bed',
-    'Wardrobe',
-    'Bookshelf'
   ];
   furnitureName: string = '';
 

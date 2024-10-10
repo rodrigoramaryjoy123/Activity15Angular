@@ -8,10 +8,6 @@ import { Component } from '@angular/core';
 export class SubjectlistComponent {
   subjectList: string[] = [
     'Mathematics',
-    'Physics',
-    'Chemistry',
-    'Biology',
-    'Computer Science'
   ];
   subjectName: string = '';
 

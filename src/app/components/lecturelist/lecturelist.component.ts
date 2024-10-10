@@ -7,11 +7,10 @@ import { Component } from '@angular/core';
 })
 export class LecturelistComponent {
   lectureList: string[] = [
-    'Introduction to Computer Science',
     'Fundamentals of Programming',
-    'Data Structures and Algorithms',
-    'Web Development Basics',
-    'Software Engineering Principles'
+    'Web Development ',
+    'Capstone 1 and 2 ',
+    
   ];
   lectureName: string = '';
 

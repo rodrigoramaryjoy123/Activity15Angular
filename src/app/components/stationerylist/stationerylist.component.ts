@@ -8,10 +8,6 @@ import { Component } from '@angular/core';
 export class StationerylistComponent {
   stationeryList: string[] = [
     'Notebook',
-    'Pen',
-    'Pencil',
-    'Eraser',
-    'Highlighter'
   ];
   stationeryName: string = '';
 

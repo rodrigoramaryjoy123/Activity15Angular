@@ -7,11 +7,7 @@ import { Component } from '@angular/core';
 })
 export class FrameworklistComponent {
   frameworkList: string[] = [
-    'Angular',
     'React',
-    'Vue.js',
-    'Laravel',
-    'Django'
   ];
   frameworkName: string = '';
 

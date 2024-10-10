@@ -7,11 +7,11 @@ import { Component } from '@angular/core';
 })
 export class TourlistComponent {
   tourList: string[] = [
-    'City Tour',
-    'Beach Adventure',
-    'Mountain Hiking',
-    'Historical Sites',
-    'Wildlife Safari'
+    'Boracay Island',
+    'Palawan (El Nido and Coron)',
+    'Banaue Rice Terraces',
+    'Chocolate Hills, Bohol',
+    'Vigan City'
   ];
   tourName: string = '';
 

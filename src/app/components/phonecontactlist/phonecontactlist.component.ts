@@ -7,10 +7,9 @@ import { Component } from '@angular/core';
 })
 export class PhonecontactlistComponent {
   phoneContactList: string[] = [
-    'Walter John Wick - 123-456-7890',
-    'Princess Roerenz Tiozon - 987-654-3210',
-    'Rodney No Surname - 555-555-5555',
-    'Xavier The Tiktoker - 444-444-4444',
+    'DILG Hotline: 8888',
+    'PNP Hotline: 117',
+    'Caloocan City Government Contact Information Telephone: (02) 8331-8203',
   ];
   phoneContactName: string = '';
 

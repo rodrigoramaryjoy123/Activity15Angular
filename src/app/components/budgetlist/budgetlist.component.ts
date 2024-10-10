@@ -9,9 +9,6 @@ export class BudgetlistComponent {
   budgetList: string[] = [
     'Personal Savings Plan',
     'Emergency Fund',
-    'Monthly Expenses Tracker',
-    'Retirement Savings Account',
-    'Investment in Mutual Funds'
   ];
   budgetName: string = '';
 

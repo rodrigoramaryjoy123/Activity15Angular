@@ -8,10 +8,8 @@ import { Component } from '@angular/core';
 export class VegetablelistComponent {
   vegetableList: string[] = [
     'Carrot',
-    'Broccoli',
-    'Spinach',
     'Tomato',
-    'Cucumber'
+    
   ];
   vegetableName: string = '';
 

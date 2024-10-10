@@ -10,8 +10,6 @@ export class MealplanlistComponent {
     'Adobo with Rice',
     'Sinigang na Baboy',
     'Kare-Kare',
-    'Pancit Canton',
-    'Lechon Kawali'
   ];
   mealPlanName: string = '';
 

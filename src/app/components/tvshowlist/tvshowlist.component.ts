@@ -7,11 +7,10 @@ import { Component } from '@angular/core';
 })
 export class TvshowlistComponent {
   tvShowList: string[] = [
-    'Breaking Bad',
-    'Stranger Things',
-    'The Crown',
-    'Game of Thrones',
-    'The Mandalorian'
+    'The General Daughter',
+    'Ang Probinsyano (Filipino)',
+    'Batang Quiapo',
+
   ];
   tvShowName: string = '';
 

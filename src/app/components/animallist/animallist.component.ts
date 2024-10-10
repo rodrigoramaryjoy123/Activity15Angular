@@ -7,11 +7,9 @@ import { Component } from '@angular/core';
 })
 export class AnimallistComponent {
   animalList: string[] = [
-    'Lion',
-    'Tiger',
     'Elephant',
     'Giraffe',
-    'Zebra'
+   
   ];
   animalName: string = '';
 

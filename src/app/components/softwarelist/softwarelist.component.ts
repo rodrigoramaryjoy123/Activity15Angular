@@ -9,9 +9,6 @@ export class SoftwarelistComponent {
   softwareList: string[] = [
     'Visual Studio Code',
     'JetBrains IntelliJ IDEA',
-    'Adobe Photoshop',
-    'Microsoft Office',
-    'Slack'
   ];
   softwareName: string = '';
 

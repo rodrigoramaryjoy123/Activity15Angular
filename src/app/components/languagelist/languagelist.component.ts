@@ -9,9 +9,6 @@ export class LanguagelistComponent {
   languageList: string[] = [
     'Filipino',
     'English',
-    'Cebuano',
-    'Ilocano',
-    'Hiligaynon'
   ];
   languageName: string = '';
 

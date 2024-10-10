@@ -8,10 +8,6 @@ import { Component } from '@angular/core';
 export class InventorylistComponent {
   inventoryList: string[] = [
     'Rice',
-    'Canned Goods',
-    'Toiletries',
-    'Cleaning Supplies',
-    'Cooking Oil'
   ];
   inventoryName: string = '';
 

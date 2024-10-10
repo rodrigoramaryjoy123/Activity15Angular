@@ -7,11 +7,7 @@ import { Component } from '@angular/core';
 })
 export class ClassroomlistComponent {
   classroomList: string[] = [
-    'Room 169 - Science Lab',
-    'Room 269 - Math Lab',
-    'Room 369 - Computer Lab',
-    'Room 469 - Art Room',
-    'Room 569 - Library'
+    'Room 1 - Computer Lab',
   ];
   classroomName: string = '';
 

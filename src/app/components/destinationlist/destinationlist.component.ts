@@ -10,8 +10,7 @@ export class DestinationlistComponent {
     'Boracay',
     'Palawan',
     'Cebu',
-    'Batanes',
-    'Siargao'
+    'Bicol',
   ];
   destinationName: string = '';
 

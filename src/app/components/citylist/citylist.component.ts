@@ -7,11 +7,7 @@ import { Component } from '@angular/core';
 })
 export class CitylistComponent {
   cityList: string[] = [
-    'Manila',
-    'Quezon City',
-    'Cebu City',
-    'Davao City',
-    'Zamboanga City'
+    'Caloocan',
   ];
   cityName: string = '';
 

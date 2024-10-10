@@ -8,12 +8,8 @@ import { Component } from '@angular/core';
 export class MobileapplistComponent {
   mobileAppList: string[] = [
     'Facebook',
-    'Instagram',
-    'Shopee',
-    'Grab',
     'GCash',
     'Messenger',
-    'Twitter',
     'TikTok',
     'YouTube'
   ];

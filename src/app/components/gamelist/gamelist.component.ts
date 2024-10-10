@@ -9,9 +9,6 @@ export class GamelistComponent {
   gameList: string[] = [
     'Mobile Legends: Bang Bang',
     'Call of Duty: Mobile',
-    'Genshin Impact',
-    'Valorant',
-    'PUBG Mobile'
   ];
   gameName: string = '';
 

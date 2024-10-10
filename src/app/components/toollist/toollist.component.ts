@@ -7,10 +7,7 @@ import { Component } from '@angular/core';
 })
 export class ToollistComponent {
   toolList: string[] = [
-    'Hammer', 
-    'Screwdriver', 
-    'Wrench', 
-    'Pliers', 
+    'Hammer',  
     'Drill'];
  
   toolName: string = '';

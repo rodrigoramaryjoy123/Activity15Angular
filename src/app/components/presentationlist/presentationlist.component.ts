@@ -8,10 +8,6 @@ import { Component } from '@angular/core';
 export class PresentationlistComponent {
   presentationList: string[] = [
     'The Daily',
-    'Stuff You Should Know',
-    'Crime Junkie',
-    'How I Built This',
-    'The Joe Rogan Experience'
   ];
   presentationName: string = '';
 

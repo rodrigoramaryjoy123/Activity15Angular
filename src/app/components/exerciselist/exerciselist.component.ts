@@ -9,9 +9,6 @@ export class ExerciselistComponent {
   exerciseList: string[] = [
     'Jumping Jacks',
     'Push-Ups',
-    'Squats',
-    'Lunges',
-    'Burpees'
   ];
   exerciseName: string = '';
 

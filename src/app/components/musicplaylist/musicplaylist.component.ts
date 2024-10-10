@@ -7,10 +7,6 @@ import { Component } from '@angular/core';
 })
 export class MusicplaylistComponent {
   musicList: string[] = [
-    'Tadhana - Up Dharma Down',
-    'Buwan - Juan Karlos',
-    'Ikaw - Yeng Constantino',
-    'Kahit Ayaw Mo Na - This Band',
     'Hawak Kamay - Yeng Constantino'
   ];
   musicName: string = '';

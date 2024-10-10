@@ -8,10 +8,8 @@ import { Component } from '@angular/core';
 export class FlowerlistComponent {
   flowerList: string[] = [
     'Sampaguita',
-    'Waling-Waling',
-    'Bougainvillea',
     'Roses',
-    'Orchids'
+    
   ];
   flowerName: string = '';
 

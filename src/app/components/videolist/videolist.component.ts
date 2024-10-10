@@ -7,11 +7,12 @@ import { Component } from '@angular/core';
 })
 export class VideolistComponent {
   videoList: string[] = [
-    'Video 1: Introduction to Angular',
-    'Video 2: Angular Directives',
-    'Video 3: Building Components',
-    'Video 4: Routing in Angular',
-    'Video 5: Angular Services'
+    ' Programming Basics',
+    ' Web Development',
+    'Frontend Frameworks',
+    'Backend Development',
+    'Version Control',
+
   ];
   videoName: string = '';
 

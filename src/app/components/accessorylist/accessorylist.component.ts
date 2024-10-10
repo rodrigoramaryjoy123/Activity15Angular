@@ -8,10 +8,6 @@ import { Component } from '@angular/core';
 export class AccessorylistComponent {
   accessoryList: string[] = [
     'Barong Tagalog',
-    'Terno',
-    'Sampaguita Necklace',
-    'Banig (woven mat)',
-    'Capiz Shell Decor'
   ];
   accessoryName: string = '';
 
